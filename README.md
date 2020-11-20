@@ -4,6 +4,11 @@ Just a little programming language I've been working on for a couple of weeks
 
 Sintax
 
+HelloWorld:
+    
+        put-0-'Hello, World!'
+        log-0
+
 put stores a value in a variable
 
     put-'foo'-'Hello!'
