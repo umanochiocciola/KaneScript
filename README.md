@@ -2,6 +2,7 @@
 
 Just a little programming language I've been working on for a couple of weeks
 open .ks files with KaneScript.exe
+to have a better experience, load as custom language on Notepad++ Notepad++Language.xml
 
 Sintax
 
