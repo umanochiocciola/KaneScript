@@ -31,6 +31,10 @@ read copies the value of a variable on another
     read-'two0s'-0
     read-1-'message'
 
+jump jumps to a specific line
+
+    jump-4
+
 int converts a variable to integer
 
     int-'output variable'-'input variable'
