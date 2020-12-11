@@ -1,4 +1,4 @@
-# KaneScript
+# IDKScript
 
 Just a little programming language I've been working on for a couple of weeks
 open .ks files with KaneScript.exe
